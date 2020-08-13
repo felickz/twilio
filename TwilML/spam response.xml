@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>This phone number is out of service, please contact me via alternative means!</Say>
+  	<Say>I will pause 10 seconds starting now!</Say>
+    <Pause length="10"/>
+    <Say>Dialing "1"</Say>
+  	<Play digits="wwww1"></Play>
+    <Say>I will pause 10 seconds starting now to wait for spammer to pick up!</Say>
+    <Pause length="10"/>
+    <Say>You have chosen Phone as the subject of your question or complaint.    
+
+If you have questions about a problem you are having with your phone service and want to read more about common phone issues raised with the FCC, see our consumer guides.   
+
+If our consumer guides do not address your issue, another option is to file a complaint. Please look carefully at the list of issues on the complaint form and choose which issue most closely matches the issue you are having.  Read the entire list of issues before making your choice.    
+
+Below are the Phone issues you can choose from.    
+
+Unwanted calls: Receiving unwanted calls from telemarketers or your own telephone number is being spoofed, blocked or labeled as a possible spam call.  Concerns about this issue generally fall into two categories:
+
+Unwanted Calls - You will need to select “unwanted calls” as the Phone issue and then “all other unwanted calls” as the sub-issue. If you received an unwanted call from an international number in a format other than 555-555-5555, you can report the number in the “Additional Information” field on the complaint form. 
+Your Number Is Being Spoofed - If your number is being spoofed, blocked, or labeled as potential spam you will need to select “unwanted calls” as the Phone issue and then “my own number is being spoofed” as the sub-issue. 
+ 
+
+Availability: Services are not available in your area, issues with coverage areas or coverage maps. 
+
+Billing: Issues with your provider about advertised rates, service charges, taxes, fees, surcharges, lifeline, inmate calling.
+
+***If you believe you have been slammed – your provider has been changed without your authorization – please select the Slamming issue NOT the Billing issue.
+
+***If you believe you have been crammed – there has been an unauthorized charge placed on your phone bill – please select the Cramming issue NOT the Billing issue.
+
+Cramming: Unauthorized charges placed on your phone bill. Many times, this happens when a third party places a charge on your bill. For example, if you have been slammed – your provider is changed without your authorization – and they charge you for the unauthorized service after your service has been switched back.
+
+Equipment: Issues with your phone and related equipment including device unlocking.
+
+Interference: Issues with interference including interference from amateur radios, CBs, and signal jammers. 
+
+Junk Faxes: Receiving unsolicited advertisements on your fax machine.
+
+Number Portability: Issues with keeping your phone number if you switch providers.
+
+Privacy: Your personal information has been breached. 
+
+***If you have concerns about Caller ID spoofing, please select the Unwanted Calls issue and then the appropriate sub-issue (see above) NOT the Privacy issue.
+
+Rural Call Completion: Difficulties completing calls to rural areas.
+
+Slamming: Your provider has been changed without your authorization.</Say>
+</Response>
